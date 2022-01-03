@@ -2,13 +2,13 @@
 
 
 
-### Short story about me
+# Short story about me
 
-# I'm a Naval Engineer from Polytechnic University of Madrid, I also studied a Master in Astronomy and Astrophysics, while studying both masters and working as an intern, I started coding and, in that moment, I discovered the love of my life.
+### I'm a Naval Engineer from Polytechnic University of Madrid, I also studied a Master in Astronomy and Astrophysics, while studying both masters and working as an intern, I started coding and, in that moment, I discovered the love of my life.
 
-# I started with Matlab and Arduino, and later I coded using Python. I decided to apply my coding knowledges to my final project of Master in Astronomy and Astrophysics, its title was "Machine Learning Techniques for Classification of Active Galaxies".
+### I started with Matlab and Arduino, and later I coded using Python. I decided to apply my coding knowledges to my final project of Master in Astronomy and Astrophysics, its title was "Machine Learning Techniques for Classification of Active Galaxies".
 
-# After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github.
+### After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github.
 
 <!--
 **RaquelRod-github/RaquelRod-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
