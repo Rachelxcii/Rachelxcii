@@ -1,7 +1,7 @@
 ![Ilustración_sin_título 15](https://user-images.githubusercontent.com/49941851/147887009-6ceb21b0-6829-4c39-8f2e-309fdd1ac1e4.png)
 
 
-
+<br />
 # Short story about me
 
 ### I'm a Naval Engineer from Polytechnic University of Madrid, I also studied a Master in Astronomy and Astrophysics, while studying both masters and working as an intern, I started coding and, in that moment, I discovered the love of my life.
