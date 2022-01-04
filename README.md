@@ -2,8 +2,9 @@
 
 # Task list
 
-### - [ ] Put cool GitHub
+- [ ] Put cool GitHub
 - [ ] Course Machine Learning
+- [x] Write 'Short story about me'
 
 # Short story about me
 
