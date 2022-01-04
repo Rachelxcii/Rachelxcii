@@ -12,9 +12,8 @@
 
 ### I started with Matlab and Arduino, and later I coded using Python. I decided to apply my coding knowledges to my final project of Master in Astronomy and Astrophysics, its title was "Machine Learning Techniques for Classification of Active Galaxies".
 
-### After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github.
-<br/>
-<br/>
+### After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github. <br/>
+
 <img src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="425"/> <img src="https://user-images.githubusercontent.com/49941851/147999607-10d4f1ba-48bb-4df5-a5e3-12142a27460f.png" width="550"/>
 
 <!--
