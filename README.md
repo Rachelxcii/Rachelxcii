@@ -14,7 +14,7 @@
 
 ### After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github.
 
-![Ilustración_sin_título 3](https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif)
+![Ilustración_sin_título 3](https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif) ![Ilustración_sin_título 17](https://user-images.githubusercontent.com/49941851/147998107-fadf984c-9672-4f05-bbe3-5623b33b09d1.png)
 
 
 <!--
