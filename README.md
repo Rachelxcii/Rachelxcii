@@ -8,9 +8,7 @@
 
 ### After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github.
 
-![Ilustración_sin_título 2](https://user-images.githubusercontent.com/49941851/147995287-8afa0da8-8b48-4f0b-b5f4-bd721c072d49.gif)
-
-
+![Ilustración_sin_título 3](https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif)
 
 
 <!--
