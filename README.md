@@ -16,7 +16,7 @@
 
 ### <br/>
 
-<img src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="425"/> <img src="https://user-images.githubusercontent.com/49941851/147999607-10d4f1ba-48bb-4df5-a5e3-12142a27460f.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="425"/> <img src="https://user-images.githubusercontent.com/49941851/147999607-10d4f1ba-48bb-4df5-a5e3-12142a27460f.png" width="425"/>
 
 <!--
 **RaquelRod-github/RaquelRod-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
