@@ -4,7 +4,12 @@
 
 <h3 align="center"># Social Networks</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/raquelrr/">![D3642A23-7112-491F-BCDD-F3D99D06807C](https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png)</a> 
+  <a href="https://www.linkedin.com/in/raquelrr/"><![D3642A23-7112-491F-BCDD-F3D99D06807C](https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png)></a>
+
+  img src="/imagenes/foto1.jpg" alt="Paisaje"
+
+  <a href="https://www.linkedin.com/in/raquelrr/"><img src="https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png" alt="D3642A23-7112-491F-BCDD-F3D99D06807C"></a>
+  
 </p>
 
 ---
