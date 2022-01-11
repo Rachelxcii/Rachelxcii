@@ -2,7 +2,7 @@
 
 # Social Networks
 
-<h3 align="center">👋 Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center"># Social Networks</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/raquelrr/">LinkedIn</a> 
 </p>
