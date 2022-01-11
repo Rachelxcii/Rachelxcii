@@ -4,8 +4,10 @@
 
 <h3 align="center"># Social Networks</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/raquelrr/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/raquelrr/">https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png</a> 
 </p>
+
+![D3642A23-7112-491F-BCDD-F3D99D06807C](https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png)
 
 ---
 
