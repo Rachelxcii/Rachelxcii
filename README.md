@@ -2,10 +2,9 @@
 
 # Social Networks
 
-<h3 align="center"># Social Networks</h3>
+<h3 align="center"></h3>
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/raquelrr/"><img src="https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png" alt="D3642A23-7112-491F-BCDD-F3D99D06807C" width="90"></a>
+  <a href="https://www.linkedin.com/in/raquelrr/"><img src="https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png" alt="D3642A23-7112-491F-BCDD-F3D99D06807C" width="90" align="center"></a>
   
 </p>
 
