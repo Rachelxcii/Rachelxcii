@@ -4,7 +4,12 @@
 
 <h3 align="center"></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/raquelrr/"><img src="https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png" alt="D3642A23-7112-491F-BCDD-F3D99D06807C" width="90" align="center"> <a href="https://www.youtube.com/channel/UCbug3AAP93vyG8lVrSOJ82w"><img src="https://user-images.githubusercontent.com/49941851/148972231-34b25442-1f5e-4dc8-9fc1-0fded1b27b1a.png" alt="6FD63774-4F2B-4315-A680-4F4282B9722B" width="90" align="center"></a>
+  <a href="https://www.linkedin.com/in/raquelrr/"><img src="https://user-images.githubusercontent.com/49941851/148967472-d5e4d173-4128-4ebd-bf47-9ff519b64c6a.png" alt="D3642A23-7112-491F-BCDD-F3D99D06807C" width="90" align="center">
+    <a href="https://www.youtube.com/channel/UCbug3AAP93vyG8lVrSOJ82w"><img src="https://user-images.githubusercontent.com/49941851/148972231-34b25442-1f5e-4dc8-9fc1-0fded1b27b1a.png" alt="6FD63774-4F2B-4315-A680-4F4282B9722B" width="90" align="center">
+      <a href="https://github.com/Rachelxcii/Rachelxcii/wiki"><img src="https://user-images.githubusercontent.com/49941851/148979290-0cd15607-a550-4c26-9701-da85d83cccf6.png" alt="5D395935-6AF6-4879-8F2E-2B0934E56195" width="90" align="center">
+      <a href=""><img src="" alt="" width="90" align="center">
+      <a href=""><img src="" alt="" width="90" align="center">
+    </a>
 </p>
 
 ---
