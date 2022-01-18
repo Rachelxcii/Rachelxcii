@@ -16,15 +16,6 @@
       <a href=""><img src="" alt="" width="90" align="center">
     </a>
 </p>
-
----
-
-# Task list
-
-  - [ ] Put cool GitHub
-  - [ ] Course Machine Learning
-  - [x] Write 'Short story about me'
-  
 ---
 
 # Skills
