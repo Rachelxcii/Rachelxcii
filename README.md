@@ -1,4 +1,4 @@
-![Ilustración_sin_título 14](https://user-images.githubusercontent.com/49941851/149982151-501819ba-659c-4baa-a841-c620dcf5c0f2.png)
+![Ilustración_sin_título 15](https://user-images.githubusercontent.com/49941851/149986377-850cbf3f-050d-45e3-a6cf-441bbf519169.png)
 ---
 
 <h1 align="center">Social Networks</h1>
