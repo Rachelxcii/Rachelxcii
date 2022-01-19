@@ -31,10 +31,13 @@
 ### After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github.
 
 ---
-<div style="position: relative; left: 0; top: 0;">
-    <img src="https://user-images.githubusercontent.com/49941851/150100346-37f69f5d-d1a0-4df8-afb2-07b98dfeec2a.png" width="400" class='eye'/>
-    <img src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="400" class='heaven'/>
-</div>
+
+<body>
+  <div style="position: relative; left: 0; top: 0;">
+      <img src="https://user-images.githubusercontent.com/49941851/150100346-37f69f5d-d1a0-4df8-afb2-07b98dfeec2a.png" width="400" class='eye'/>
+      <img src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="400" class='heaven'/>
+  </div>
+</body>
 <img src="https://user-images.githubusercontent.com/49941851/148000215-1fd28f4d-a9be-43ff-8157-1c33ddae7d43.png" width="425"/>
         
 ![Ilustración_sin_título 23](https://user-images.githubusercontent.com/49941851/150100346-37f69f5d-d1a0-4df8-afb2-07b98dfeec2a.png)        
