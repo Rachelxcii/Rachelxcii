@@ -33,10 +33,7 @@
 ---
 
 <img src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="400"/>
-<img src="https://user-images.githubusercontent.com/49941851/148000215-1fd28f4d-a9be-43ff-8157-1c33ddae7d43.png" width="425"/>
-        
-![Ilustración_sin_título 23](https://user-images.githubusercontent.com/49941851/150100346-37f69f5d-d1a0-4df8-afb2-07b98dfeec2a.png)        
-![66484C8F-2610-4808-959A-B16609C80546](https://user-images.githubusercontent.com/49941851/148984925-3364280c-0f18-4f27-9212-b8c6d758b856.png)
+<img src="https://user-images.githubusercontent.com/49941851/148000215-1fd28f4d-a9be-43ff-8157-1c33ddae7d43.png" width="400"/>
 
 <!--
 **RaquelRod-github/RaquelRod-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
