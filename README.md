@@ -31,7 +31,23 @@
 ### After finishing both careers, I've redirected all my efforts to improve my coding skills and knowledges. I hope one day to work on it as a job. Until then I will include some of my projects in this github.
 
 ---
+.eye{
+  position:absolute;
+  height:200px;
+  width:200px;
+  top: 40px;
+  left : 40px;
+  z-index: 1;
+}
 
+.heaven
+{
+  position:absolute;
+  height:300px;
+  width:300px;
+  z-index: -1;
+}
+        
 <body>
   <div style="position: relative; left: 0; top: 0;">
       <img src="https://user-images.githubusercontent.com/49941851/150100346-37f69f5d-d1a0-4df8-afb2-07b98dfeec2a.png" width="400" class='eye'/>
