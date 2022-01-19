@@ -33,7 +33,7 @@
 ---
 
 <div id="Layer1" style="position:absolute; left:137px; top:77px; width:136px; height:132px; z-index:1"><img name="Ilustración_sin_título 23" src="https://user-images.githubusercontent.com/49941851/150100346-37f69f5d-d1a0-4df8-afb2-07b98dfeec2a.png" width="137" height="132" alt=""></div>
-<div id="Layer2" style="position:absolute; left:195px; top:110px; width:64px; height:58px; z-index:1"><img name="Ilustración_sin_título 3" src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="66" height="58" alt=""></div>        
+<div id="Layer2" style="position:absolute; left:195px; top:110px; width:64px; height:58px; z-index:-1"><img name="Ilustración_sin_título 3" src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="66" height="58" alt=""></div>        
         
 <body>
   <div style="position: relative; left: 0; top: 0;">
