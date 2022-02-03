@@ -28,11 +28,11 @@ Column 2
     
 <tr>
 
-<th align="center"><small><img width="400" height="1">
+<th align="center"><img width="400" height="1"><small>
 Hard skills
 </small></th>
 
-<th align="center"><small><img width="400" height="1">
+<th align="center"><img width="400" height="1"><small>
 Soft skills
 </small></th>
     
