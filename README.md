@@ -16,6 +16,15 @@
 <h1 align="center">Skills</h1>
 
 <table border="0" align="center">
+
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
     
 <tr>
 
@@ -35,15 +44,6 @@ Soft skills
 </td>
 <td>
     Python · 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
 </td>
 </tr>
 
