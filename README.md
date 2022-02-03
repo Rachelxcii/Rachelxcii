@@ -20,7 +20,7 @@
 <tr>
 
 <th align="center"><img width="400" height="1"><p>
-<h2 align="center">Hard skills</h2>
+<h3 align="center">Hard skills</h3>
 </th></p>
 
 <th align="center"><img width="400" height="1"><p>
@@ -34,7 +34,9 @@ Soft skills
     Hard worker · Quick learner
 </td>
 <td>
+\```jsonc
     Python · 
+\'''
 </td>
 </tr>
 </table>
