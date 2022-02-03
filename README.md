@@ -15,7 +15,7 @@
 
 # Skills
 
-<table>
+<table border="0">
     
 <tr><th align="center"><img width="400" height="1"><p><small>
 EXAMPLE TEXT
