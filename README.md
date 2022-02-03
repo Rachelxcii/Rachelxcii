@@ -15,22 +15,25 @@
 
 # Skills
 
-<table border="1">
+<table border="0" align="center">
     
 <tr><th align="center"><img width="400" height="1"><p><small>
-EXAMPLE TEXT
+Professional skills
 </small></p></th>
     
 <th align="center"><img width="441" height="1"><p> <small>
-EXAMPLE TEXT
+Personal skills
 </small></p></th></tr>
     
 <tr>
 <td>
-DESCRIPTION
+
 </td>
+    * Python
+    * 
 <td>
-DESCRIPTION
+    * Hard worker
+    * Quick learner
 </td>
 </tr>
 
