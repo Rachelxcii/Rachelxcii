@@ -18,10 +18,10 @@
 <table border="0" align="center">
 
 <tr>
-<td align="center">
+<td align="center"><img width="400" height="1">
 Column 1
 </td>
-<td align="center">
+<td align="center"><img width="400" height="1">
 Column 2
 </td>
 </tr>
