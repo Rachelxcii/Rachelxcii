@@ -14,9 +14,6 @@
 ---
 
 <h1 align="center">Skills</h1>
-
-<table border="0" align="center">
-
 <tr>
 
 <th align="center"><img width="400" height="1"><p>
@@ -37,9 +34,7 @@ Soft skills
     Python · 
 </td>
 </tr>
-
-</table>     
-          
+       
 ---
 # Projects
 ---
