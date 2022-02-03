@@ -19,13 +19,13 @@
 
 <tr>
 
-<th align="center"><img width="400" height="1"><small>
+<th align="center"><img width="400" height="1"><p><small>
 Hard skills
-</small></th>
+    </small></th></p>
 
-<th align="center"><img width="400" height="1"><small>
+<th align="center"><img width="400" height="1"><p><small>
 Soft skills
-</small></th>
+    </small></th></p>
     
 </tr>
     
