@@ -29,11 +29,9 @@ Personal skills
 <td>
 
 </td>
-    * Python
-    * 
+    Python · 
 <td>
-    * Hard worker
-    * Quick learner
+    Hard worker · Quick learner
 </td>
 </tr>
 
