@@ -32,9 +32,9 @@ Column 2
 Hard skills
 </small></th>
 
-<th align="center"><p> <small>
+<th align="center"><small>
 Soft skills
-</small></p></th>
+</small></th>
     
 </tr>
     
