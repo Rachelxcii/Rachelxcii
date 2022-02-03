@@ -20,7 +20,7 @@
 <tr>
 
 <th align="center"><img width="400" height="1"><p>
-Hard skills
+<h2 align="center">Hard skills</h2>
 </th></p>
 
 <th align="center"><img width="400" height="1"><p>
