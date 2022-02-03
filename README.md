@@ -18,15 +18,6 @@
 <table border="0" align="center">
 
 <tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-</tr>
-    
-<tr>
 
 <th align="center"><img width="400" height="1"><small>
 Hard skills
