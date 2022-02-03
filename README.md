@@ -15,18 +15,62 @@
 
 # Skills
 
-<table border="0">
+<table>
 <tr>
-    <th align="center">
-        <td><b style="font-size:30px">Title</b></td>
-        <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <th align="center">
-        <td>Lorem ipsum ...</td>
-        <td>Lorem ipsum ...</td>
- </tr>
-</table>          
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
+</table>     
           
 ---
 # Projects
