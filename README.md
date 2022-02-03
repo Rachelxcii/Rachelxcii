@@ -18,21 +18,21 @@
 <table border="0" align="center">
 
 <tr>
-<td align="center"><img width="400" height="1">
+<td align="center">
 Column 1
 </td>
-<td align="center"><img width="400" height="1">
+<td align="center">
 Column 2
 </td>
 </tr>
     
 <tr>
 
-<th align="center"><small>
+<th align="center"><small><img width="400" height="1">
 Hard skills
 </small></th>
 
-<th align="center"><small>
+<th align="center"><small><img width="400" height="1">
 Soft skills
 </small></th>
     
