@@ -28,9 +28,9 @@ Column 2
     
 <tr>
 
-<th align="center"><p><small>
+<th align="center"><small>
 Hard skills
-</small></p></th>
+</small></th>
 
 <th align="center"><p> <small>
 Soft skills
