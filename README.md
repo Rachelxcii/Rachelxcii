@@ -12,9 +12,6 @@
 </p>
         
 ---
-
-<h1 align="center">Skills</h1>
-
 <table border="0" align="center">
 
 <tr>
