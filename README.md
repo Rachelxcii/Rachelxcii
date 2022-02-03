@@ -16,13 +16,15 @@
 # Skills
 
 <table border="0">
- <tr align="center">
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+<tr>
+    <th align="center">
+        <td><b style="font-size:30px">Title</b></td>
+        <td><b style="font-size:30px">Title 2</b></td>
  </tr>
- <tr align="center">
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+ <tr>
+    <th align="center">
+        <td>Lorem ipsum ...</td>
+        <td>Lorem ipsum ...</td>
  </tr>
 </table>          
           
