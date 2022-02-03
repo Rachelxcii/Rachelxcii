@@ -34,9 +34,9 @@ Soft skills
     Hard worker · Quick learner
 </td>
 <td>
-\'''jsonc
+\```jsonc
     Python · 
-\'''
+\
 </td>
 </tr>
 </table>
