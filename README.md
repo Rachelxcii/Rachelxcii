@@ -17,11 +17,11 @@
 
 <table border="0" align="center">
     
-<tr><th align="center"><img width="400" height="1"><p><small>
+<tr><th align="center"><img width="400" height="0"><p><small>
 Hard skills
 </small></p></th>
-    
-<th align="center"><img width="441" height="1"><p> <small>
+
+<th align="center"><img width="400" height="0"><p> <small>
 Soft skills
 </small></p></th></tr>
     
