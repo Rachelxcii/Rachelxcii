@@ -16,52 +16,24 @@
 # Skills
 
 <table>
-<tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
+    
+<tr><th align="center"><img width="400" height="1"><p><small>
 EXAMPLE TEXT
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
+</small></p></th>
+    
+<th align="center"><img width="441" height="1"><p> <small>
 EXAMPLE TEXT
-</small>
-</p>
-</th>
-</tr>
+</small></p></th></tr>
+    
 <tr>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+DESCRIPTION
 </td>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+DESCRIPTION
 </td>
 </tr>
+
 <tr>
 <td align="center">
 Column 1
@@ -70,6 +42,7 @@ Column 1
 Column 2
 </td>
 </tr>
+
 </table>     
           
 ---
