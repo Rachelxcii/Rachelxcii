@@ -27,9 +27,8 @@ Personal skills
     
 <tr>
 <td>
-
-</td>
     Python · 
+</td>
 <td>
     Hard worker · Quick learner
 </td>
