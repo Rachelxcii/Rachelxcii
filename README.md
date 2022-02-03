@@ -19,7 +19,7 @@
 
 <tr>
 
-<th align="center"><img width="400" height="1"><small>
+<th ><img width="400" height="1"><small>
 Hard skills
 </small></th>
 
