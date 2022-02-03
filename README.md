@@ -13,24 +13,24 @@
         
 ---
 
-# Skills
+<h1 align="center">Skills</h1>
 
 <table border="0" align="center">
     
 <tr><th align="center"><img width="400" height="1"><p><small>
-Professional skills
+Hard skills
 </small></p></th>
     
 <th align="center"><img width="441" height="1"><p> <small>
-Personal skills
+Soft skills
 </small></p></th></tr>
     
 <tr>
 <td>
-    Python · 
+    Hard worker · Quick learner
 </td>
 <td>
-    Hard worker · Quick learner
+    Python · 
 </td>
 </tr>
 
