@@ -12,6 +12,18 @@
 </p>
         
 ---
+
+<table width="100%">
+  <tr>
+  <td width="33.3%"></td>
+      hi
+  <td width="33.3%"></td>
+      hello
+  <td width="33.3%"></td>
+      omg
+  </tr>
+</table>
+
 <table border="0" align="center">
 
 <tr>
