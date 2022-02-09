@@ -15,12 +15,9 @@
 
 <table width="100%">
   <tr>
-  <td width="33.3%"></td>
-      hi
-  <td width="33.3%"></td>
-      hello
-  <td width="33.3%"></td>
-      omg
+  <td width="33.3%">rrr</td>
+  <td width="33.3%">rrr</td>
+  <td width="33.3%">rrr</td>
   </tr>
 </table>
 
