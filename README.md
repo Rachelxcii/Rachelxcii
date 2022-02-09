@@ -13,7 +13,7 @@
         
 ---
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
   <td width="33.3%">rrr</td>
   <td width="33.3%">rrr</td>
@@ -21,30 +21,6 @@
   </tr>
 </table>
 
-<table border="0" align="center">
-
-<tr>
-
-<th align="center"><img width="400" height="1">
-<h3 align="center">Hard skills</h3>
-</th>
-
-<th align="center"><img width="400" height="1">
-<h3 align="center">Soft skills</h3>
-</th>
-    
-</tr>
-    
-<tr>
-<td>
-    Hard worker · Quick learner
-</td>
-<td>
-    Python · 
-</td>
-</tr>
-</table>
-       
 ---
 # Projects
 ---
