@@ -3,7 +3,6 @@
 <h1 align="center">Social Networks</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/raquelrr/"><img src="https://user-images.githubusercontent.com/49941851/150092573-79fde916-7a18-4bfb-8b3e-c3b4fd0ea0e4.png" alt="Ilustración_sin_título 16" width="90" align="center">
-    <a href="https://www.youtube.com/channel/UCbug3AAP93vyG8lVrSOJ82w"><img src="https://user-images.githubusercontent.com/49941851/150092802-abf56ac2-6cac-4d4c-a1e7-46da4a962264.png" alt="Ilustración_sin_título 17" width="90" align="center">
       <a href="https://github.com/Rachelxcii/Rachelxcii/wiki"><img src="https://user-images.githubusercontent.com/49941851/150093504-8c3ca668-f47b-4280-9104-f8a0e905c75c.png" alt="Ilustración_sin_título 20" width="90" align="center">
       <a href="https://app.codesignal.com/profile/rachelxcii"><img src="https://user-images.githubusercontent.com/49941851/150093771-ceb97df8-cf53-4d7b-aa16-5a732a512805.png" alt="Ilustración_sin_título 22" width="90" align="center">
       <a href="https://leetcode.com/Rachelxcii/"><img src="https://user-images.githubusercontent.com/49941851/150093365-f8d070ea-88c0-4f62-a638-2e657078352a.png" alt="Ilustración_sin_título 18" width="90" align="center">
@@ -44,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> <a href="https://www.youtube.com/channel/UCbug3AAP93vyG8lVrSOJ82w"><img src="https://user-images.githubusercontent.com/49941851/150092802-abf56ac2-6cac-4d4c-       a1e7-46da4a962264.png" alt="Ilustración_sin_título 17" width="90" align="center">
