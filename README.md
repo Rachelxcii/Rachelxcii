@@ -22,9 +22,10 @@
 </table>
 
 ---
-# Projects
-   - [x] Google IT Automation with Python, specialization program of Google.
-   - [ ] Course Machine Learning, Stanford University.
+# Tasks to improve skills:
+          
+   - [x] [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation), specialization program of Google.
+   - [ ] Course [Machine Learning](https://www.coursera.org/learn/machine-learning), Stanford University.
  
 ---
 # Short story about me
