@@ -10,16 +10,6 @@
       <a href="https://www.hackerrank.com/rachelxcii"><img src="https://user-images.githubusercontent.com/49941851/150093077-dd796a9b-6511-4718-968a-04755eb9c7f5.png" alt="Ilustración_sin_título 19" width="90" align="center">   
     </a>
 </p>
-        
----
-
-<table width="100%" align="center">
-  <tr>
-  <td width="33.3%">rrr</td>
-  <td width="33.3%">rrr</td>
-  <td width="33.3%">rrr</td>
-  </tr>
-</table>
 
 ---
 # Tasks to improve skills:
