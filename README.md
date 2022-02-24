@@ -15,6 +15,7 @@
           
    - [x] [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation), specialization program of Google.
    - [ ] Course [Machine Learning](https://www.coursera.org/learn/machine-learning), Stanford University.
+   - [ ] Do testing environment for each code upload in my github.
  
 ---
 # Short story about me
