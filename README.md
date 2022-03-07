@@ -32,7 +32,6 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/49941851/147995611-41515f15-804f-441c-ba3d-74cf8644416f.gif" width="400"/><img src="https://user-images.githubusercontent.com/49941851/148000215-1fd28f4d-a9be-43ff-8157-1c33ddae7d43.png" width="400"/>
 </p>
-          
 <!--
 **RaquelRod-github/RaquelRod-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
