@@ -14,7 +14,9 @@
 # Tasks to improve skills:
           
    - [x] [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation), specialization program of Google.
+   - [ ] Course [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
    - [ ] Course [Machine Learning](https://www.coursera.org/learn/machine-learning), Stanford University.
+   - [ ] Course [Deep Learning](https://www.coursera.org/specializations/deep-learning)
    - [ ] Do testing environment for each code upload in my github.
    - [ ] Developing an algorithm for active galaxies classification.
  
