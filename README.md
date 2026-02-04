@@ -2,13 +2,12 @@
 
 <h1 align="center">Social Networks</h1>
 <p align="center">
-    <a href="https://www.datacamp.com/portfolio/Rachelxcii"><img src="assets/LOGO_DATACAMP.PNG" alt="LOGO_DATACAMP" width="90" align="center">
-    <a href="https://www.hackerrank.com/rachelxcii"><img src="assets/LOGO_HACKERRANK.PNG" alt="LOGO_HACKERRANK" width="90" align="center">
-    <a href="https://leetcode.com/Rachelxcii/"><img src="assets/LOGO_LEETCODE.PNG" alt="LOGO_LEETCODE" width="90" align="center">
-    <a href="https://www.linkedin.com/in/rachelxcii/"><img src="assets/LOGO_LINKEDIN.PNG" alt="LOGO_LINKEDIN" width="90" align="center">
-    <a href="https://github.com/Rachelxcii/Rachelxcii/wiki"><img src="assets/LOGO_WIKI.PNG" alt="LOGO_WIKI" width="90" align="center">
-    <a href="https://www.youtube.com/@Rachelxcii"><img src="assets/LOGO_YOUTUBE.PNG" alt="LOGO_YOUTUBE" width="90" align="center">
-    </a>
+    <a href="https://www.datacamp.com/portfolio/Rachelxcii"><img src="assets/LOGO_DATACAMP.PNG" alt="LOGO_DATACAMP" width="90" align="center"></a>
+    <a href="https://www.hackerrank.com/rachelxcii"><img src="assets/LOGO_HACKERRANK.PNG" alt="LOGO_HACKERRANK" width="90" align="center"></a>
+    <a href="https://leetcode.com/Rachelxcii/"><img src="assets/LOGO_LEETCODE.PNG" alt="LOGO_LEETCODE" width="90" align="center"></a>
+    <a href="https://www.linkedin.com/in/rachelxcii/"><img src="assets/LOGO_LINKEDIN.PNG" alt="LOGO_LINKEDIN" width="90" align="center"></a>
+    <a href="https://github.com/Rachelxcii/Rachelxcii/wiki"><img src="assets/LOGO_WIKI.PNG" alt="LOGO_WIKI" width="90" align="center"></a>
+    <a href="https://www.youtube.com/@Rachelxcii"><img src="assets/LOGO_YOUTUBE.PNG" alt="LOGO_YOUTUBE" width="90" align="center"></a>
 </p>
 
 ---
