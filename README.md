@@ -2,12 +2,12 @@
 
 <h1 align="center">Professional Ecosystem</h1>
 <p align="center">
-    <a href="https://www.datacamp.com/portfolio/Rachelxcii"><img src="assets/LOGO_DATACAMP.PNG" alt="LOGO_DATACAMP" width="90" align="center"></a>
-    <!-- <a href="https://www.hackerrank.com/rachelxcii"><img src="assets/LOGO_HACKERRANK.PNG" alt="LOGO_HACKERRANK" width="90" align="center"></a> -->
-    <a href="https://leetcode.com/Rachelxcii/"><img src="assets/LOGO_LEETCODE.PNG" alt="LOGO_LEETCODE" width="90" align="center"></a>
     <a href="https://www.linkedin.com/in/rachelxcii/"><img src="assets/LOGO_LINKEDIN.PNG" alt="LOGO_LINKEDIN" width="90" align="center"></a>
+    <!-- <a href="https://www.youtube.com/@Rachelxcii"><img src="assets/LOGO_YOUTUBE.PNG" alt="LOGO_YOUTUBE" width="90" align="center"></a> -->
+	<a href="https://www.datacamp.com/portfolio/Rachelxcii"><img src="assets/LOGO_DATACAMP.PNG" alt="LOGO_DATACAMP" width="90" align="center"></a>
+    <a href="https://leetcode.com/Rachelxcii/"><img src="assets/LOGO_LEETCODE.PNG" alt="LOGO_LEETCODE" width="90" align="center"></a>
+    <!-- <a href="https://www.hackerrank.com/rachelxcii"><img src="assets/LOGO_HACKERRANK.PNG" alt="LOGO_HACKERRANK" width="90" align="center"></a> -->
     <!-- <a href="https://github.com/Rachelxcii/Rachelxcii/wiki"><img src="assets/LOGO_WIKI.PNG" alt="LOGO_WIKI" width="90" align="center"></a> -->
-    <a href="https://www.youtube.com/@Rachelxcii"><img src="assets/LOGO_YOUTUBE.PNG" alt="LOGO_YOUTUBE" width="90" align="center"></a>
 </p>
 
 ---
@@ -30,7 +30,9 @@ My mastery of Python and technical rigor opened the doors for me to work as a Da
 - Storytelling is my passion: I am a Dungeon Master, which allows me to merge my global vision with narrative.
 - Unafraid of error: I firmly believe that more is learned from how not to do things than from easy success.
 
-Explore my repositories to see my work in action, or find me at the "Great Library of YouTube" where I share technical knowledge. May your dice (and your data) always roll high!
+Explore my repositories to see my work in action. May your dice (and your data) always roll high!
+
+<!-- , or find me at the "Great Library of YouTube" where I share technical knowledge-->
 
 ---
 
