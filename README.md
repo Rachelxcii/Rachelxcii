@@ -33,20 +33,6 @@ My mastery of Python and technical rigor opened the doors for me to work as a Da
 Explore my repositories to see my work in action, or find me at the "Great Library of YouTube" where I share technical knowledge. May your dice (and your data) always roll high!
 
 ---
-# Technical Focus & R&D:
-
-- [cite_start]**Core Specialization:** Data Quality Engineering, ETL Automation (Azure/Databricks), and Statistical Modeling[cite: 16, 19, 32].
-- [cite_start]**Current Research:** Advancing Machine Learning foundations (Harvard CS50 AI) and refining active galaxy classification algorithms.
-- **Commitment to Rigor:** Implementing automated testing environments for all codebases to ensure production-grade reliability.
-
----
-# Key Achievements
-
-- [cite_start]**Machine Learning:** Achieved a **10/10** on Final Master's Thesis for Active Galaxy Classification using ML techniques.
-- [cite_start]**Data Engineering:** Engineered **500+ automated quality rules** for massive-scale datasets, ensuring 99% extraction accuracy[cite: 15, 16].
-- [cite_start]**Cloud Infrastructure:** Managed end-to-end pipelines within **Azure Data Factory** and **Databricks**[cite: 19].
-
----
 
 <p align="center">
     <img src="assets/logo_animado_rachelxcii.GIF" width="400"/>
