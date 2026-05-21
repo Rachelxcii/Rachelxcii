@@ -10,15 +10,6 @@
     <!-- <a href="https://github.com/Rachelxcii/Rachelxcii/wiki"><img src="assets/LOGO_WIKI.PNG" alt="LOGO_WIKI" width="90" align="center"></a> -->
 </p>
 
-<div align="center">
-    <img src="assets/TITLE_RACHELXCII.PNG" alt="TITLE LOGO" style="margin-bottom: -20px;">
-    <h1 style="margin-top: 0; margin-bottom: 10px;">Professional Ecosystem</h1>
-    <a href="https://www.linkedin.com/in/rachelxcii/"><img src="assets/LOGO_LINKEDIN.PNG" width="90"></a>
-    <a href="https://www.datacamp.com/portfolio/Rachelxcii"><img src="assets/LOGO_DATACAMP.PNG" width="90"></a>
-    <a href="https://leetcode.com/Rachelxcii/"><img src="assets/LOGO_LEETCODE.PNG" width="90"></a>
-    <!-- <a href="https://www.youtube.com/@Rachelxcii"><img src="assets/LOGO_YOUTUBE.PNG" alt="LOGO_YOUTUBE" width="90" align="center"></a> -->
-</div>
-
 ---
 
 Greetings! I am Rachel. It is an honor to cross paths on this day.
