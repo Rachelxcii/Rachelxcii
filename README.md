@@ -1,4 +1,4 @@
-![TITLE LOGO](assets/LOGO_TITLE.PNG)
+![TITLE LOGO](assets/TITLE_RACHELXCII.PNG)
 
 <h1 align="center">Professional Ecosystem</h1>
 <p align="center">
