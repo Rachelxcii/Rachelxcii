@@ -1,5 +1,3 @@
-![TITLE LOGO](assets/TITLE_RACHELXCII.PNG)
-
 <h1 align="center">Professional Ecosystem</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/rachelxcii/"><img src="assets/LOGO_LINKEDIN_.PNG" alt="LOGO_LINKEDIN" width="90" align="center"></a>
