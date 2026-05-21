@@ -37,5 +37,5 @@ Explore my repositories to see my work in action. May your dice (and your data) 
 ---
 
 <p align="center">
-    <img src="assets/logo_animado_rachelxcii.GIF" width="400"/>
+    <img src="assets/logo_animado_rachelxcii_beige.GIF" width="400"/>
 </p>
