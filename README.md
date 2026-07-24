@@ -18,12 +18,13 @@ I am a Naval Engineer and Astrophysicist. My journey with data began a few years
 
 Like Thomas Edison, I discovered a few methods that didn't classify galaxies correctly. However, that methodology and the precision of my analysis were rewarded with the highest grade: a 10 out of 10 on my thesis.
 
-My mastery of Python and technical rigor opened the doors for me to work as a Data Quality Analyst and Data Engineer. I have spent the last few years balancing both disciplines, ensuring that large-scale client data is reliable and structured.
+Leveraging Python and technical rigor, I’ve built a solid foundation as a Data Quality Analyst, while occasionally collaborating on Data Engineering tasks. Currently, I focus on bridging Data Analytics with AI Engineering, exploring agentic programming to build autonomous and high-impact data solutions.
 
 **Core Competencies:**
-- Data Quality: Ensuring high-stakes data is trustworthy and "production-ready".
-- Data Engineering: Building scalable pipelines and structured environments.
-- Python and SQL Mastery: My primary tool for solving complex technical puzzles.
+- AI & Agentic Engineering: Designing autonomous workflows and intelligent architectures.
+- Data Analytics & Statistics: Transforming complex datasets into actionable, high-precision insights.
+- Data Quality: Ensuring high-stakes data is trustworthy, structured, and "production-ready".
+- Python and SQL Mastery: My primary tools for solving complex technical puzzles.
 
 **Beyond the Data:**
 - I love precision and critical thinking: Good debates are my fuel.
