@@ -33,7 +33,7 @@ Leveraging Python and technical rigor, I’ve built a solid foundation as a Data
 
 Explore my repositories to see my work in action. May your dice (and your data) always roll high!
 
-<!-- , or find me at the "Great Library of YouTube" where I share technical knowledge.-->
+<!-- , or find me at the "Great Library of YouTube" where I share technical knowledge. -->
 
 ---
 
